@@ -240,6 +240,15 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   }
 }
 
+@media (max-width: 992px) {
+    .anchor{
+      display: block;
+      height: 115px; /*same height as header*/
+      margin-top: -20vh; /*same height as header*/
+      visibility: hidden;
+      }
+}
+
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
