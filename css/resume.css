@@ -219,6 +219,11 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
     max-width: 75rem;
   }
 
+  section.resume-section3 {
+    min-height: 60vh;
+    max-width: 75rem;
+  }
+
 .parallax {
     min-height: 100vh;
     max-width: 75rem !important;
@@ -232,6 +237,10 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
+  }
+
+  section.resume-section3 {
+    min-height: 60vh;
   }
 .parallax {
     min-height: 100vh;
