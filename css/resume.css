@@ -131,7 +131,7 @@ p.lead {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 17rem;
+    width: 19rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -142,9 +142,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 16rem;
+    max-height: 15rem;
+    /* border: 0.5rem solid rgba(255, 255, 255, 0.2); */
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
@@ -253,11 +253,12 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
-    max-width:calc(100vw - 17rem) !important;
+    max-width:calc(100vw - 19rem) !important;
+    padding: 5rem !important;
   }
 
   .parallax {
-     max-width: calc(100vw - 17rem) !important;
+     max-width: calc(100vw - 19rem) !important;
   }
 }
 
