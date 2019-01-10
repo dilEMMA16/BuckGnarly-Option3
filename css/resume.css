@@ -96,7 +96,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #bd5d38;
+  filter:brightness(1.15);
 }
 
 .dev-icons {
