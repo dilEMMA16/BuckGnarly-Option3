@@ -466,13 +466,18 @@ a:hover, a:focus, a:active {
       background-image: url(../img/artboard5vert.png) !important;
     }
 
+    #pagetitle {
+      font-size: 6.5rem;
+      line-height: 5rem;
+    }
+
     .parallax {
       width: 100vw !important;
     }
 }
 
 .css-1go991n {
-  border: 1px solid white !important;
+  border: 1px solid #bca106 !important;
 }
 
 #sideNav {
