@@ -343,7 +343,7 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   }
 
   .parallax {
-    width: 100% !important;
+    width: 100vw !important;
   }
 
   .imgbwtocolor:hover {
@@ -465,8 +465,23 @@ a:hover, a:focus, a:active {
     #parallax4 {
       background-image: url(../img/artboard5vert.png) !important;
     }
+
+    .parallax {
+      width: 100vw !important;
+    }
 }
 
 .css-1go991n {
   border: 1px solid white !important;
+}
+
+#sideNav {
+  z-index: 900 !important;
+}
+
+.__typeform-embed-mobile-modal-open {
+  width:98vw !important;
+}
+.css-141sqqa {
+  margin: 20px !important;
 }
