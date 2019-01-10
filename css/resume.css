@@ -282,12 +282,14 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   }
 }
 
+
+
 @media (max-width: 992px) {
     .anchor{
       display: block;
       height: 115px; /*same height as header*/
       margin-top: -20vh; /*same height as header*/
-      visibility: hidden;
+      /* visibility: hidden; */
       }
 
       /* The Modal (background) */
@@ -310,6 +312,35 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
         width:60%;
         height:auto;
       }
+}
+
+@media only screen and (max-width: 800px) {
+  .modal img {
+    width: 80%;
+    height: auto;
+  }
+
+  .piccolumn img {
+    width: 46vw;
+    height: auto;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .modal img {
+    width: 90%;
+    height: auto;
+  }
+
+  .piccolumn img {
+    width: 94vw;
+    height: auto;
+  }
+
+  .anchor {
+    padding-top:20vh;
+  }
 }
 
 @media (min-width: 992px) {
@@ -404,4 +435,17 @@ a:hover, a:focus, a:active {
 
     /*  .parallax {display:none;} .parallax { background-image: url(../img/mediaparallax.png) !important; background-attachment: scroll; background-size: contain;}
     */
+    #parallax2 {
+      background-image: url(../img/artboard4vert.png) !important;
+    }
+    #parallax3 {
+      background-image: url(../img/artboard6vert.png) !important;
+    }
+    #parallax4 {
+      background-image: url(../img/artboard5vert.png) !important;
+    }
+}
+
+.css-1go991n {
+  border: 1px solid white !important;
 }
