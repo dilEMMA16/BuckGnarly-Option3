@@ -9,7 +9,7 @@
     <meta name="author" content="">
 
     <title>Buck Gnarly</title>
-    <link rel="icon" href="img/favicon.png" type="image/icon" sizes="16x16">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="16x16">
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
