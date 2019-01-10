@@ -305,6 +305,11 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
           background-color: rgb(0,0,0); /* Fallback color */
           background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
       }
+
+      .modal img {
+        width:60%;
+        height:auto;
+      }
 }
 
 @media (min-width: 992px) {
@@ -330,6 +335,11 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
       overflow: auto; /* Enable scroll if needed */
       background-color: rgb(0,0,0); /* Fallback color */
       background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+
+  .modal img {
+    width:60%;
+    height:auto;
   }
 
   .parallax {
