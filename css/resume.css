@@ -115,8 +115,8 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  color:#bca106 !important;
-  background-color:#bca10680;
+  color:#ba9c51 !important;
+  background-color:#ba9c5180;
   border-radius: 100%;
   text-align: center;
   font-size: 1.85rem;
@@ -400,7 +400,7 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
 }
 
 .bg-primary {
-  background-color: #bca106 !important;
+  background-color: #ba9c51 !important;
 }
 
 .text-primary {
@@ -451,19 +451,19 @@ a:hover, a:focus, a:active {
     .modal-content {
         width: 100%;
     }
-    .parallax { background-image: url(../img/Artboard3xvert.png) !important; background-attachment: scroll; background-size: cover;}
+    .parallax { background-image: url(../img/1x/artboard3vert.png) !important; background-attachment: scroll; background-size: cover;}
 
 
     /*  .parallax {display:none;} .parallax { background-image: url(../img/mediaparallax.png) !important; background-attachment: scroll; background-size: contain;}
     */
     #parallax2 {
-      background-image: url(../img/artboard4vert.png) !important;
+      background-image: url(../img/1x/artboard4vert.png) !important;
     }
     #parallax3 {
-      background-image: url(../img/artboard6vert.png) !important;
+      background-image: url(../img/1x/artboard6vert.png) !important;
     }
     #parallax4 {
-      background-image: url(../img/artboard5vert.png) !important;
+      background-image: url(../img/1x/artboard5vert.png) !important;
     }
 
     #pagetitle {
@@ -481,7 +481,7 @@ a:hover, a:focus, a:active {
 }
 
 .css-1go991n {
-  border: 1px solid #bca106 !important;
+  border: 1px solid #ba9c51 !important;
 }
 
 #sideNav {
